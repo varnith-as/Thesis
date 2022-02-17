@@ -1,0 +1,7 @@
+Loaded module: julia/1.4.0
+Loaded module: gurobi/9.5.0
+ Activating environment at `~/Thesis/Project.toml`
+┌ Warning: `with_optimizer` is deprecated. Adapt the following example to update your code:
+│ `with_optimizer(Ipopt.Optimizer)` becomes `Ipopt.Optimizer`.
+│   caller = top-level scope at bed_stoch_model_upload.jl:128
+└ @ Core ~/Thesis/bed_stoch_model_upload.jl:128
